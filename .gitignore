@@ -1,0 +1,9 @@
+# Bỏ qua các file thực thi và dữ liệu rác
+*.exe
+*.o
+*.out
+*.sh 
+input.txt
+output.txt
+.vscode/
+stats.json
