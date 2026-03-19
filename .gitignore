@@ -3,7 +3,10 @@
 *.o
 *.out
 *.sh 
+*.gitignore
+main.cpp
 input.txt
 output.txt
 .vscode/
 stats.json
+leetcode.cpp
