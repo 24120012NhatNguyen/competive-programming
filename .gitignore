@@ -11,3 +11,4 @@ output.txt
 stats.json
 leetcode.cpp
 .clangd
+build/
