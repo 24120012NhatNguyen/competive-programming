@@ -2,7 +2,7 @@
 *.exe
 *.o
 *.out
-*.sh 
+*.sh
 *.gitignore
 main.cpp
 input.txt
@@ -10,3 +10,4 @@ output.txt
 .vscode/
 stats.json
 leetcode.cpp
+.clangd
